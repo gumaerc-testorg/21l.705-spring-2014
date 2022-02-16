@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: d6622cc2-6845-757f-5af5-01b8fa233489
 ---
@@ -52,20 +54,6 @@ Completion of 2 previous literature courses.
 ### Offered
 
 21L.705 is a seminar course taught in the spring and fall semesters, though the instructor and focal topics vary. This was the first iteration of _21L.705 Major Authors: Old English and "Beowulf"._
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![This photo shows the classroom for this course, which has seating for 14 around a central seminar table.]({{< resource_file d91a6209-4088-bb08-0e9d-de807fe5be68 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    This classroom had moveable chairs around a centrally located seminar table that accommodated 14 students.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
