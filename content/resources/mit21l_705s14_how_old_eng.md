@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 5b96ea0a-222d-4121-0e2a-9c7d8b2223bc
 resourcetype: Document
 title: 'Lecture 1: HandoutHow to sign up for Old English Aerobics'
 uid: ebab0162-8b32-66f2-b37a-b72e89d7a5be

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 5b96ea0a-222d-4121-0e2a-9c7d8b2223bc
 resourcetype: Document
 title: 'Lecture 5-6: Handout Learning verbs part 1.'
 uid: 2bbff3d2-650c-6660-dda2-effc0b2e805a
