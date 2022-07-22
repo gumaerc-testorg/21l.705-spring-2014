@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21l-705-major-authors-old-english-and-beowulf-spring-2014/fafb0cbe77fbdd651b68ac85c13af719_MIT21L_705S14_bahr.srt
+file: /courses/21l-705-major-authors-old-english-and-beowulf-spring-2014/fafb0cbe77fbdd651b68ac85c13af719_MIT21L_705S14_bahr.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: MIT21L_705S14_bahr.srt

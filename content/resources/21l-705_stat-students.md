@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21l-705-major-authors-old-english-and-beowulf-spring-2014/3e2884adf6ff9da76c85134e543d96b8_21L-705_stat-students.png
+file: /courses/21l-705-major-authors-old-english-and-beowulf-spring-2014/3e2884adf6ff9da76c85134e543d96b8_21L-705_stat-students.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
