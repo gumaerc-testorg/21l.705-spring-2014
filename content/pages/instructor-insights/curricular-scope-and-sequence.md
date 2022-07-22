@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: d6622cc2-6845-757f-5af5-01b8fa233489
 title: Curricular Scope and Sequence
 uid: aa6f2c54-1cf8-eb59-3cde-25b7c193c7ec

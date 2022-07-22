@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: d6622cc2-6845-757f-5af5-01b8fa233489
 title: Developing Rapport with Students
 uid: b5e14be3-e5a9-d990-e967-9b34e58fc8e0
