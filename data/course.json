@@ -44,8 +44,10 @@
   },
   "learning_resource_types": [
     "Demonstration Videos",
-    "Exams with Solutions"
+    "Exams with Solutions",
+    "Instructor Insights"
   ],
-  "site_uid": "16b4c5ae-ce5e-4fa6-96b6-b7ce98d244c2",
+  "site_uid": "28e1c57f-e885-4f56-8f2f-442e9d707d01",
+  "site_short_id": "21l.705-spring-2014",
   "title": "Course Metadata"
 }

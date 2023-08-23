@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of required and recommended books for
+  the course along with comments on the books.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -64,7 +66,7 @@ READINGS
 Course introduction; preliminary discussion of case system and pronunciation
 {{< tdclose >}}
 {{< tdopen >}}
-[How to Sign Up for Old English Aerobics (PDF)]({{< baseurl >}}/resources/mit21l_705s14_how_old_eng)
+{{% resource_link ebab0162-8b32-66f2-b37a-b72e89d7a5be "How to Sign Up for Old English Aerobics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +146,7 @@ Verbs
 {{< tdopen >}}
 
 
-[Learning Verbs Part 1 (PDF)]({{< baseurl >}}/resources/mit21l_705s14_learn_verbs)
+{{% resource_link 2bbff3d2-650c-6660-dda2-effc0b2e805a "Learning Verbs Part 1 (PDF)" %}}
 
 \[IOE\] pp. 63–81 and pp. 81–8.
 

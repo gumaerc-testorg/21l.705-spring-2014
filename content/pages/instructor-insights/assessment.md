@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides insights from the instructor on creating challenging
+  exams for the course and using mock exams as an opportunity to model thought processes.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

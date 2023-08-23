@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides insights from the instructor on developing rapport
+  with students.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
