@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21l-705-major-authors-old-english-and-beowulf-spring-2014/3e2884adf6ff9da76c85134e543d96b8_21L-705_stat-students.png
+file: /ol-ocw-studio-app/courses/21l-705-major-authors-old-english-and-beowulf-spring-2014/3e2884adf6ff9da76c85134e543d96b8_21L-705_stat-students.png
+file_size: 2833
 file_type: image/png
 image_metadata:
   caption: ''

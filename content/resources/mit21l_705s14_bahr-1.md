@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21l-705-major-authors-old-english-and-beowulf-spring-2014/bc19f3073f3fe883b38da593f3acf150_MIT21L_705S14_bahr.pdf
+file: /ol-ocw-studio-app/courses/21l-705-major-authors-old-english-and-beowulf-spring-2014/bc19f3073f3fe883b38da593f3acf150_MIT21L_705S14_bahr.pdf
+file_size: 76143
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

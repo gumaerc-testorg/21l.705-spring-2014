@@ -2,7 +2,8 @@
 content_type: resource
 description: This file contains the information regarding handout how to sign up for
   old english aerobics .
-file: /courses/21l-705-major-authors-old-english-and-beowulf-spring-2014/ebab01628b3266f2b37ab72e89d7a5be_MIT21L_705S14_How_Old_Eng.pdf
+file: /ol-ocw-studio-app/courses/21l-705-major-authors-old-english-and-beowulf-spring-2014/ebab01628b3266f2b37ab72e89d7a5be_MIT21L_705S14_How_Old_Eng.pdf
+file_size: 78344
 file_type: application/pdf
 learning_resource_types:
 - Readings
