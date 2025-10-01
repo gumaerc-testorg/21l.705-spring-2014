@@ -14,7 +14,7 @@ Required Book List
 
 \[IOE\] = Baker, Peter S. _Introduction to Old English_. Wiley-Blackwell, 2012. ISBN: 9780470659847.
 
-\[M&R\] = Mitchell, Bruce, and Fred C. Robinson. _A Guide to Old English_. Wiley-Blackwell, 2011. ISBN: 9780470671078. \[Preview with [Google Books](http://books.google.com/books?id=hwzlYFlKlOoC&pg=PAfrontcover)\]
+\[M&R\] = Mitchell, Bruce, and Fred C. Robinson. _A Guide to Old English_. Wiley-Blackwell, 2011. ISBN: 9780470671078. \[Preview with {{% resource_link "8ea9acdd-5b99-424c-a1d8-ba9cc1a5a1df" "Google Books" %}}\]
 
 \[WH\] = Barney, Stephen A., Ellen Wertheimer, and David Stevens. _Word-hoard: An Introduction to Old English Vocabulary_. Yale University Press, 1985. ISBN: 9780300035063.
 
@@ -23,12 +23,12 @@ Required Book List
 Recommended Book List
 ---------------------
 
-Hall, John R. Clark. _A Concise Anglo-Saxon Dictionary_. Vol. 14. Wilder Publications, 2011. ISBN: 9781617201875. \[Preview with [Google Books](http://books.google.com/books?id=eLYiXNHnQWsC&pg=PAfrontcover)\]
+Hall, John R. Clark. _A Concise Anglo-Saxon Dictionary_. Vol. 14. Wilder Publications, 2011. ISBN: 9781617201875. \[Preview with {{% resource_link "b5a976f8-062f-4603-b050-4a7c6b7103c5" "Google Books" %}}\]
 
 Comments About These Books
 --------------------------
 
-Our main textbook will be Baker's _Introduction to Old English_, but I am asking you to buy Mitchell and Robinson as well because their handling of the grammar is more detailed and technical; that may appeal to some of you, and all of us will benefit from having the same grammatical principles laid out in different ways. Mitchell and Robinson also include several texts we will be working with that Baker does not. In addition, the Baker textbook includes access to an online site, Old English Aerobics ([http://www.oldenglishaerobics.net](http://www.oldenglishaerobics.net)), that allows you to practice and test your understanding of the grammatical principles covered in the class. (Some exercises are available for free without the purchase of the textbook.)
+Our main textbook will be Baker's _Introduction to Old English_, but I am asking you to buy Mitchell and Robinson as well because their handling of the grammar is more detailed and technical; that may appeal to some of you, and all of us will benefit from having the same grammatical principles laid out in different ways. Mitchell and Robinson also include several texts we will be working with that Baker does not. In addition, the Baker textbook includes access to an online site, Old English Aerobics ({{% resource_link "6d28c287-d6b7-4c9f-9d73-d49a5d6e133c" "http://www.oldenglishaerobics.net" %}}), that allows you to practice and test your understanding of the grammatical principles covered in the class. (Some exercises are available for free without the purchase of the textbook.)
 
 _Word-Hoard_ is a wonderful guide to the most common word-groups of Old English, organized with attention to shared etymologies that will help anyone who has studied another Indo-European language and will engage anyone with any degree of native curiosity (which you clearly have, or you wouldn't have signed up for Old English). The book is absurdly expensive new, but there are many used copies floating about the interwebs. Its word-groups will serve as the basis of the daily vocabulary quizzes.
 
